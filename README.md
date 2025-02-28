@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi Welcome to My Project 👋
 
 <!--
 **Muns91/Muns91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&width=4000&section=header&text=Welcome%20to%20My%20%Project%20%F0%9F%A4%97)
