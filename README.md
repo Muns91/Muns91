@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     - ROS 기반의 불법 주차 단속 로봇 개발 연구 (2022)
 
 - SKT FLY AI 👵👴
-    - 인공지능 기반의 노인 케어 애플리케이션 "POOM" 개발 (2024)
+    - ### [인공지능 기반의 노인 케어 애플리케이션 "POOM" 개발 (2024)](https://github.com/Muns91/SKT-FLY-AI-project-POOM)
     - "A Design and Implementation of the Deep Learning-Based Senior Care Service Application Using AI Speaker" 한국정보컴퓨터학회 (2024) : 23-30 
 
 - Energy 🔋
