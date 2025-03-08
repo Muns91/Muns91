@@ -35,11 +35,11 @@ Here are some ideas to get you started:
     - 머신러닝을 활용한 모바일 트래픽 패턴 분석 및 예측 모델 연구 참여 (2019)
       
 - 전남, 광주지역혁신 플랫폼 🚗
-    - ### [라즈베리파이 기반의 소형 자율주행 자동차 모델 개발 연구 (2022)](https://github.com/Muns91/The-Deep-Learning-based-Small-Autonomous-Mobility-with-Raspberry-Pi.git)
+    - [라즈베리파이 기반의 소형 자율주행 자동차 모델 개발 연구 (2022)](https://github.com/Muns91/The-Deep-Learning-based-Small-Autonomous-Mobility-with-Raspberry-Pi.git)
     - ROS 기반의 불법 주차 단속 로봇 개발 연구 (2022)
 
 - SKT FLY AI 👵👴
-    - ### [인공지능 기반의 노인 케어 애플리케이션 "POOM" 개발 (2024)](https://github.com/Muns91/SKT-FLY-AI-project-POOM)
+    - [인공지능 기반의 노인 케어 애플리케이션 "POOM" 개발 (2024)](https://github.com/Muns91/SKT-FLY-AI-project-POOM)
     - "A Design and Implementation of the Deep Learning-Based Senior Care Service Application Using AI Speaker" 한국정보컴퓨터학회 (2024) : 23-30 
 
 - Energy 🔋
