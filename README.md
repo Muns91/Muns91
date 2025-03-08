@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <br><br>
 ## 🏆 AI Competition 
-- 2025 Dacon, "부동산 허위매물 분류" 경진대회 (Private 43 / 상위 10%) 🏠 
-- 2025 Dacon,  "전기차 가격 예측" 경진대회 (최종 3위) 🚙
-- 2020 MAIC, "수술 중 저혈압 예측" 경진대회 (본선 5위 / 84 ) 🏥
+- [2025 Dacon, "부동산 허위매물 분류" 경진대회 (Private 43 / 상위 10%) 🏠](https://github.com/Muns91/Dacon-Real-Estate-Classification.git) 
+- [2025 Dacon,  "전기차 가격 예측" 경진대회 (최종 3위) 🚙](https://github.com/Muns91/Dacon-Electric-Vehicle-Price-Prediction-Model.git)
+- [2020 MAIC, "수술 중 저혈압 예측" 경진대회 (본선 5위 / 84 ) 🏥](https://github.com/Muns91/MAIC_2020-The-Prediction-of-Intraoperative-Hypotension-with-VitalDB..git)
 - 2020 Dacon, "태양광 발전량 예측" 경진대회 (Private 31 / 461 ) 🌞
