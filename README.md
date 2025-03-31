@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 <br><br>
 ## 🏆 AI Competition 
-- 2025 Dacon, "악성 URL 분류" 경진 대회 💻
+- [2025 Dacon, "악성 URL 분류" 경진 대회 💻](https://github.com/Muns91/Dacon-Malicious-URL-Classification)
 - [2025 Dacon, "채무 불이행 여부 예측" 경진 대회 🏦](https://github.com/Muns91/Dacon-Credit-Default-Determination)
 - [2025 Dacon, "건설공사 사고 예방 및 대응책 생성" 경진대회 👷](https://github.com/Muns91/RAG-Construction-Accident-Prevention-and-Response-Measures/tree/main)
 - [2025 Dacon, "부동산 허위매물 분류" 경진대회 (Private 43 / 상위 10%) 🏠](https://github.com/Muns91/Dacon-Real-Estate-Classification.git) 
