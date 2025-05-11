@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 - 2025 Dacon, "문맥 기반 문장 순서 예측" AI 경진대회
 - 2025 Dacon, "갑상선암 진단 분류 해커톤"
 - 2025 Dacon, "기업 성공 확률 예측 해커톤"
-- [2025 Dacon. "고객 신용카드 세그먼트 분류 해커톤" (Private 19 / 상위 10%) 🏦](https://github.com/Muns91/Dacon-Credit-Card-Customer-Segmentation)
-- [2025 Dacon. "아이콘 이미지 분류 해커톤" 💻](https://github.com/Muns91/Dacon-Icon-Classification)
+- [2025 Dacon, "고객 신용카드 세그먼트 분류 해커톤" (Private 19 / 상위 10%) 🏦](https://github.com/Muns91/Dacon-Credit-Card-Customer-Segmentation)
+- [2025 Dacon, "아이콘 이미지 분류 해커톤" 💻](https://github.com/Muns91/Dacon-Icon-Classification)
 - [2025 Dacon, "악성 URL 분류" 경진 대회 💻](https://github.com/Muns91/Dacon-Malicious-URL-Classification)
 - [2025 Dacon, "채무 불이행 여부 예측" 경진 대회 (Private 14 / 상위 4%) 🏦](https://github.com/Muns91/Dacon-Credit-Default-Determination)
 - [2025 Dacon, "건설공사 사고 예방 및 대응책 생성" 경진대회 👷](https://github.com/Muns91/RAG-Construction-Accident-Prevention-and-Response-Measures/tree/main)
