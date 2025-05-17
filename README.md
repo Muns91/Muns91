@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/ros-22314E?style=flat-square&logo=ros&logoColor=white"/>
 
 <br><br>
-## 🔥Projects
+## 👊 Projects
 - ETRI 💻
     - 표본셀에서의 주파수 이용량 분석 및 예측 모델 연구 참여 (2023)
     - 표본셀 트래픽 시계열 데이터 분석 및 예측 모델 연구 참여 (2020)
@@ -57,10 +57,10 @@ Here are some ideas to get you started:
     - JANG, Han Seung, et al. Non-orthogonal resource scheduling with enhanced preamble detection method for cellular random access networks. ICT Express, 2024.
 
 <br><br>
-## 🏆 AI Competition 
-- 2025 Dacon, "문맥 기반 문장 순서 예측" AI 경진대회
-- 2025 Dacon, "갑상선암 진단 분류 해커톤"
-- 2025 Dacon, "기업 성공 확률 예측 해커톤"
+## 🔥 AI Competition 
+- 2025 Dacon, "문맥 기반 문장 순서 예측" AI 경진대회 📰
+- 2025 Dacon, "갑상선암 진단 분류 해커톤" 🏥
+- 2025 Dacon, "기업 성공 확률 예측 해커톤" 🏢
 - [2025 Dacon, "고객 신용카드 세그먼트 분류 해커톤" (Private 19 / 상위 10%) 🏦](https://github.com/Muns91/Dacon-Credit-Card-Customer-Segmentation)
 - [2025 Dacon, "아이콘 이미지 분류 해커톤" 💻](https://github.com/Muns91/Dacon-Icon-Classification)
 - [2025 Dacon, "악성 URL 분류" 경진 대회 💻](https://github.com/Muns91/Dacon-Malicious-URL-Classification)
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 - 2020 Dacon, "태양광 발전량 예측" 경진대회 (Private 31 / 461 ) 🌞
 
 <br><br>
-## Awards 🏆
+## 🏆 Awards 
 - Dacon, 전기차 가격 예측 경진대회 최종 3위 (2025)
 - SKT FLY AI, 패기 부문 대상 (2024)
 - MAIC, 수술 중 저혈압 예측 본선 5위 (2020)
