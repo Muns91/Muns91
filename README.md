@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 - 정보통신기사
 - ADsP
 - 한국사능력검정시험 1급
-
 <br><br>
 ## 👊 Projects
 - ETRI 💻
