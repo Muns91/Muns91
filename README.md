@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ### Framework
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/ros-22314E?style=flat-square&logo=ros&logoColor=white"/>
 
-<br><br>
 ### Certificate
 - 정보통신기사
 - ADsP
