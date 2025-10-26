@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I am a Data Analyst & Scientist from South Korea
+😄 I am a AI Engineer from South Korea
 
 🔥 I enjoy challenging myself with data from various fields.
 <br><br>
