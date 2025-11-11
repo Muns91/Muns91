@@ -57,7 +57,7 @@ Here are some ideas to get you started:
     - JANG, Han Seung, et al. Non-orthogonal resource scheduling with enhanced preamble detection method for cellular random access networks. ICT Express, 2024.
  
 - 개인정보보호 🔐
-    - VLM을 활용한 고객 개인정보보호 마스킹 솔루션
+    - [VLM을 활용한 고객 개인정보보호 마스킹 솔루션](https://github.com/Muns91/VLM-Based-Personal-Infomation-Masking)
 
 <br><br>
 ## 🔥 AI Competition 
